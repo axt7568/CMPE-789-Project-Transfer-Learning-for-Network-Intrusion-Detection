@@ -24,7 +24,7 @@
     - Download and Install **CUDA** using the link: https://developer.nvidia.com/cuda-downloads
     - Download and Install **cuDNN** using the link: https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html
 
-**3. Run and Evalaute Models**
+**3. Run and Evaluate Models**
   - Train and Evaluate Baseline Models
     ```
       - Run ./cnn_ids2017_baseline_combined.py and ./cnn_ids2018_baseline_combined.py
